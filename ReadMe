@@ -1,0 +1,11 @@
+# ANA 505 Week 6 Activity
+
+Accuracy: SVM accuracy: 0.02667
+
+### K Means Script
+Accuracy: K Means accuracy: 0.88667
+
+### C50 Script
+Description: This script builds a C50 decision tree model and evaluates it.
+Accuracy: C50 accuracy: 0.333
+
